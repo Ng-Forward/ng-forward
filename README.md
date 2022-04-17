@@ -21,10 +21,10 @@ We are targeting four types of developers:
 - Those who want a production safe way to prepare their Angular 1 projects **now** for the easiest possible upgrade path **later**.
 - Those who are actively migrating to Angular 2 and would like to use ng-forward as the first step in their migration strategy. Once you've used ng-forward to update all the syntax in your project, you can then optionally use [ng-upgrade](http://angularjs.blogspot.com/2015/08/angular-1-and-angular-2-coexistence.html) or go straight to Angular 2.
 
-*Currently in the Alpha phase, please contribute: [ng-forward issues](https://github.com/ngUpgraders/ng-forward/issues)* 
+*Currently in the Alpha phase, please contribute: [ng-forward issues](https://github.com/Ng-Forward/ng-forward/issues)* 
 
 ### Found a bug? 
-Please [submit an issue](https://github.com/ngUpgraders/ng-forward/issues) with a plunkr that reproduces the bug. Here's an ng-forward starter plunkr ([TypeScript](http://plnkr.co/edit/ktxXKHyHQ5DLcixe6kpO?p=preview) or [Babel](http://plnkr.co/edit/FScTw1byVpQEJHGQ7zLW?p=preview)) that you can fork.
+Please [submit an issue](https://github.com/Ng-Forward/ng-forward/issues) with a plunkr that reproduces the bug. Here's an ng-forward starter plunkr ([TypeScript](http://plnkr.co/edit/ktxXKHyHQ5DLcixe6kpO?p=preview) or [Babel](http://plnkr.co/edit/FScTw1byVpQEJHGQ7zLW?p=preview)) that you can fork.
 
 ## Install
 
