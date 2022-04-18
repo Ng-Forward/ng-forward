@@ -95,4 +95,4 @@ Our goal is to support the ES5 syntax used by Angular 2.x. Currently, this part 
 
 #### Who made this library?
 
-Core contributors so far are @MikeRyan52, @timkindberg, @petebacondarwin, and @hannahhoward
+Core contributors so far are @MikeRyan52, @edpapyan902, @petebacondarwin, and @hannahhoward
